@@ -1,0 +1,23 @@
+exp1 foreground process
+
+https://acme-test.uipath.com
+register with email and password
+go to windows credential ->in that give generic credential->give network type as <name of ur wish>,username as email and passwd
+
+UiPath credential activities,system,testing,uiautomation
+
+open application scope-->capture full browser screen(https://acme-test.uipath.com)->properties->close->never
+
+get secure credential->give "<name of ur wish>"
+
+type into capture email box,give "220701083@rajalakshmi.edu.in"-standard
+
+type into capture password,create a variable passwd and use it ->secure
+
+click activity->login button
+
+
+
+
+
+
