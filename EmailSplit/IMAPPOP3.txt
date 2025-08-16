@@ -1,0 +1,14 @@
+IMAP>POP3
+
+
+Gmail->@gmail.com/Google WS
+2 step verification
+app password - Password:zpbv xkvz eaap vysd
+imap port-993
+imap server-imap.gmail.com
+
+1.23.11->mail.activities->UiPath downgrade
+
+
+classroom update -{skill test}
+
