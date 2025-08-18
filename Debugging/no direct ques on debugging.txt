@@ -1,0 +1,20 @@
+no direct ques on debugging
+mcqs will be there
+
+run->it always run main.xaml file
+
+run file->for any particular file
+
+go to debug on top near design->click slow step to change the speed from 0x to 4x
+
+near that u have execution trail->click on to get correct symbol 
+
+step into->open the container executes the activitiy one by one pause,continue..u have to give step into each time
+
+step over->executes without any stop(at once)
+
+step out->if u have to quit from middle when u have given step into
+
+to give condtitional breakpoint(+)->right click on the activity,give toggle breakpoint,edit the toggle breakpoint..change the hit point to 3 for the loop to execute 3 times..u can also give condition..
+
+
