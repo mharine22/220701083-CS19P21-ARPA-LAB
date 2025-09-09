@@ -1,0 +1,21 @@
+windows power shell - similar to bash in linux
+
+PS C:\Users\mhari>$PSVersionTable
+
+PS C:\Users\mhari> $a=10
+PS C:\Users\mhari> $b=20
+PS C:\Users\mhari> $c=$a+$b
+PS C:\Users\mhari> $c
+
+PS C:\Users\mhari>New-Item -Path . -Name "XYZ.txt" -ItemType "file" -value "REC-CSE welcomes you!"
+PS C:\Users\mhari> type XYZ.txt
+REC-CSE welcomes you!
+
+cls-clear screen
+dir-entire directory files listed...
+PS C:\Users\mhari> New-Item -Path . -Name "RPA" -ItemType "directory"
+
+
+PS C:\Users\mhari\OneDrive\Documents\UiPath\PowerShell> Move-Item -Path "RIT.txt" -Destination "Colleges"
+PS C:\Users\mhari\OneDrive\Documents\UiPath\PowerShell> Move-Item -Path "REC.txt" -Destination "Colleges"
+PS C:\Users\mhari\OneDrive\Documents\UiPath\PowerShell> dir

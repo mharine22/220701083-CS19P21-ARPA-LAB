@@ -1,0 +1,2 @@
+Move-Item -Path "RIT.txt" -Destination "College"
+Move-Item -Path "REC.txt" -Destination "College"
